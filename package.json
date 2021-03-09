@@ -1,0 +1,23 @@
+{
+  "name": "opcoders-web-app-package",
+  "version": "1.0.0",
+  "description": "OPcoders website application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/DataCorruption/OPcoders-Web-App.git"
+  },
+  "author": "DataCorruption",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://gitlab.com/DataCorruption/OPcoders-Web-App/issues"
+  },
+  "homepage": "https://gitlab.com/DataCorruption/OPcoders-Web-App#readme",
+  "dependencies": {
+    "fastify": "^3.13.0",
+    "handlebars": "^4.7.7"
+  }
+}
